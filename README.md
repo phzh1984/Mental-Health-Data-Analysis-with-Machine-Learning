@@ -6,36 +6,62 @@ Mental health plays a crucial role in our overall well-being, impacting our emot
 
 Dataset Information:
 
-This project is centred around a dataset from a 2014 survey that measures attitudes toward mental health and the frequency of mental health disorders in the tech workplace. The dataset contains various attributes, each providing insights into an individual's mental health status and their workplace environment.
+This project is centered around a dataset from a 2014 survey that measures attitudes toward mental health and the frequency of mental health disorders in the tech workplace. The dataset contains various attributes, each providing insights into an individual's mental health status and workplace environment.
 
 The dataset includes the following data:
 
 Timestamp: The date and time when the survey was completed.
+
 Age: The respondent's age.
+
 Gender: The gender of the respondent.
+
 Country: The respondent's country of residence.
+
 State: If in the United States, the state or territory of residence.
+
 Self-employed: Indicates whether the respondent is self-employed.
+
 Family_history: Reveals if the respondent has a family history of mental illness.
+
 Treatment: Indicates whether the respondent sought treatment for a mental health condition.
+
 Work_interfere: If the respondent has a mental health condition, it assesses whether it interferes with their work.
+
 No_employees: The size of the respondent's company or organization.
+
 Remote_work: Indicates whether the respondent works remotely outside of an office for at least 50% of the time.
+
 Tech_company: Determines if the employer is primarily a tech company or organization.
+
 Benefits: Indicates if the employer provides mental health benefits.
+
 Care_options: Determines whether the respondent is aware of mental health care options provided by their employer.
+
 Wellness_program: Indicates if the employer has discussed mental health as part of an employee wellness program.
+
 Seek_help: Determines if the employer provides resources to learn more about mental health issues and how to seek help.
+
 Anonymity: Assesses whether the respondent's anonymity is protected when taking advantage of mental health or substance abuse treatment resources.
+
 Leave: Determines how easy it is for the respondent to take medical leave for a mental health condition.
+
 Mental_health_consequence: Assesses if discussing a mental health issue with the employer is expected to have negative consequences.
+
 Phys_health_consequence: Assesses if discussing a physical health issue with the employer is expected to have negative consequences.
+
 Coworkers: Determines if the respondent would be willing to discuss a mental health issue with their coworkers.
+
 Supervisor: Determines if the respondent would be willing to discuss a mental health issue with their direct supervisor(s).
+
 Mental_health_interview: Assesses if the respondent would bring up a mental health issue with a potential employer during an interview.
+
 Phys_health_interview: Assesses if the respondent would bring up a physical health issue with a potential employer during an interview.
+
 Mental_vs_physical: Determines if the respondent feels that their employer takes mental health as seriously as physical health.
+
 Obs_consequence: Assesses whether the respondent has heard of or observed negative consequences for coworkers with mental health conditions in their workplace.
+
 Comments: An open-text field for any additional notes or comments.
 
 Project Goals:
